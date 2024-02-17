@@ -1,4 +1,4 @@
-# Traffic-Forecasting-Time-Series
+# Traffic-Forecasting-Time
 
 **Project: Traffic Forecasting - Time Series Analysis**
 
