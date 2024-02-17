@@ -1,5 +1,4 @@
-#
-**Project: Traffic Forecasting - Time Series Analysis**
+# **Project: Traffic Forecasting - Time Series Analysis**
 
 **Objective:**
 Unicorn Ventures is exploring an investment opportunity in JetRail, a revolutionary transportation system using Jet propulsion technology. The decision to invest heavily relies on the projection that JetRail can attract over 1 Million monthly users within the next 18 months. In collaboration with Unicorn Ventures, this project aims to forecast the traffic on JetRail for the upcoming 7 months, providing crucial insights for the investment decision.
